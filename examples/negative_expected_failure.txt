@@ -1,0 +1,1 @@
+On the current page, verify that the exact text "Booking confirmation" is visible. This is an intentional negative test: if that confirmation is absent, the test must report FAIL; do not take any action to create a booking.

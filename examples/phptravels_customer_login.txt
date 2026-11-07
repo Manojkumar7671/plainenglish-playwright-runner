@@ -1,0 +1,1 @@
+Open https://phptravels.net/login. Test customer login using my authorized account: enter ${ENV:PHPTRAVELS_EMAIL} in the email field and ${ENV:PHPTRAVELS_PASSWORD} in the password field, then submit. Pass only if the customer dashboard is visibly reached. Do not print, echo, or store the resolved credentials.

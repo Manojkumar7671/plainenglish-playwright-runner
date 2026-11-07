@@ -1,0 +1,1 @@
+Open https://phptravels.net/flights. Search for a flight from Bangkok to London and check that a flight results page or a clear no-results message is displayed. Do not select, book, or pay for any fare.
