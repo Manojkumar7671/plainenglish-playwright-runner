@@ -14,6 +14,7 @@ cd /home/ubuntu/projects/plainenglish-playwright-runner
 python -m venv .venv
 . .venv/bin/activate
 pip install -r requirements.txt
+pip install -e .
 playwright install chromium
 cp .env.example .env
 ```
